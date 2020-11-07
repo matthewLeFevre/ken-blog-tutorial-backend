@@ -1,0 +1,10 @@
+{
+    "require": {
+        "matthewlefevre/ken-framework": "^0.8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Blog\\": "src"
+        }
+    }
+}
